@@ -1,1 +1,2 @@
-you will one day
+Python is easy to learn!
+File handling is interesting.
